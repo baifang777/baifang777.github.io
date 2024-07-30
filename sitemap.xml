@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://baifang777.github.io/2024/07/30/%E6%B5%81%E6%B0%B4%E8%B4%A62024-7-30/</loc>
+    
+    <lastmod>2024-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://baifang777.github.io/2024/07/28/%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</loc>
     
     <lastmod>2024-07-28</lastmod>
@@ -22,15 +31,22 @@
 
   <url>
     <loc>https://baifang777.github.io/</loc>
-    <lastmod>2024-07-28</lastmod>
+    <lastmod>2024-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://baifang777.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2024-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://baifang777.github.io/tags/md/</loc>
-    <lastmod>2024-07-28</lastmod>
+    <lastmod>2024-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
